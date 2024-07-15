@@ -18,17 +18,17 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@paca.ai"
     }
   ],
   "topbarCtaButton": {
-    "name": "Join us",
-    "url": "https://join.slack.com/t/paca-ai/shared_invite/zt-2mpyadhut-i_jb1g0cL073uq71DG0YlA"
+    "name": "Install Now",
+    "url": "https://chromewebstore.google.com/detail/paca-gpt-powered-web-scra/gpnieenphjbjcpcdnjhnipckcldebjdf?ref=installnow"
   },
   "tabs": [
     {
       "name": "Templates",
-      "url": "api-reference"
+      "url": "templates"
     }
   ],
   "anchors": [
