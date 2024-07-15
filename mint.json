@@ -1,5 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
+
+  "metadata": {
+  "og:image": "/images/hero-dark.svg"
+}
+  
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
