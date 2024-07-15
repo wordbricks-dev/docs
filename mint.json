@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#4959dc",
+    "light": "#6A99F6",
+    "dark": "#4959dc",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#4959dc",
+      "to": "#6A99F6"
     }
   },
   "topbarLinks": [
@@ -22,18 +22,18 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Free Consultation",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Templates",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Quickstart",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting Started",
       "pages": [
         "introduction",
         "quickstart",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Automation Tips",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Template Marketplace",
       "pages": [
         "api-reference/introduction"
       ]
@@ -86,6 +86,6 @@
   "footerSocials": {
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "linkedin": "https://www.linkedin.com/company/wordbricks"
   }
 }
