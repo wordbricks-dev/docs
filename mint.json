@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Free Consultation",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Join us",
+    "url": "https://join.slack.com/t/paca-ai/shared_invite/zt-2mpyadhut-i_jb1g0cL073uq71DG0YlA"
   },
   "tabs": [
     {
@@ -38,14 +38,14 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "Slack Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://join.slack.com/t/paca-ai/shared_invite/zt-2mpyadhut-i_jb1g0cL073uq71DG0YlA"
     },
     {
-      "name": "Blog",
+      "name": "Useful Tips",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://join.slack.com/t/paca-ai/shared_invite/zt-2mpyadhut-i_jb1g0cL073uq71DG0YlA"
     }
   ],
   "navigation": [
