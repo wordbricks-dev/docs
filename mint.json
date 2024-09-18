@@ -30,12 +30,7 @@
     "name": "Install Now",
     "url": "https://chromewebstore.google.com/detail/paca-gpt-powered-web-scra/gpnieenphjbjcpcdnjhnipckcldebjdf?ref=installnow"
   },
-  "tabs": [
-    {
-      "name": "Templates",
-      "url": "api-reference"
-    }
-  ],
+
   "anchors": [
 
     {
