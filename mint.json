@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
 
   "metadata": {
-  "og:image": "/images/hero-dark.svg"
-},
+    "og:image": "/images/hero-dark.svg"
+  },
   
   "name": "Starter Kit",
   "logo": {
@@ -30,9 +30,7 @@
     "name": "Install Now",
     "url": "https://chromewebstore.google.com/detail/paca-gpt-powered-web-scra/gpnieenphjbjcpcdnjhnipckcldebjdf?ref=installnow"
   },
-
   "anchors": [
-
     {
       "name": "Slack Community",
       "icon": "slack",
@@ -68,8 +66,8 @@
       "group": "Legal",
       "pages": [
         "privacy"
-    },
-
+      ]
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/sophiaistyping",
@@ -77,4 +75,3 @@
     "linkedin": "https://www.linkedin.com/company/wordbricks"
   }
 }
-
