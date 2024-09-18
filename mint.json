@@ -64,6 +64,11 @@
         "essentials/reusable-snippets"
       ]
     },
+    {
+      "group": "Legal",
+      "pages": [
+        "privacy"
+    },
 
   ],
   "footerSocials": {
