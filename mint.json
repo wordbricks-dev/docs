@@ -64,20 +64,7 @@
         "essentials/reusable-snippets"
       ]
     },
-    {
-      "group": "Template Marketplace",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
-    }
+
   ],
   "footerSocials": {
     "x": "https://x.com/sophiaistyping",
