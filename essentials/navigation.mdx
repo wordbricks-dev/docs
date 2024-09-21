@@ -1,66 +1,42 @@
 ---
-title: 'Navigation'
-description: 'The navigation field in mint.json defines the pages that go in the navigation menu'
+title: 'Recording'
+description: 'This guide will walk you through the steps to make your first recording.'
 icon: 'map'
 ---
 
-The navigation menu is the list of links on every website.
+### What is Recording?
 
-You will likely update `mint.json` every time you add a new page. Pages do not show up automatically.
+In Paca, recording refers to the process of capturing the series of your web actions on the app. You could click, type, and copy and paste within multiple webpages to make the first recording. 
 
-## Navigation syntax
 
-Our navigation syntax is recursive which means you can make nested navigation groups. You don't need to include `.mdx` in page names.
+### How to get started?
 
-<CodeGroup>
+1. Download PACA and open side bar
+2. Open webpage you want to start from
+3. Click 'Recording' Tab and 'Record' button 
 
-```json Regular Navigation
-"navigation": [
-    {
-        "group": "Getting Started",
-        "pages": ["quickstart"]
-    }
-]
-```
 
-```json Nested Navigation
-"navigation": [
-    {
-        "group": "Getting Started",
-        "pages": [
-            "quickstart",
-            {
-                "group": "Nested Reference Pages",
-                "pages": ["nested-reference-page"]
-            }
-        ]
-    }
-]
-```
+### How to record? 
 
-</CodeGroup>
+1. As you navigate the web, feel free to click, scroll, and type as you normally would.
 
-## Folders
-
-Simply put your MDX files in folders and update the paths in `mint.json`.
-
-For example, to have a page at `https://yoursite.com/your-folder/your-page` you would make a folder called `your-folder` containing an MDX file called `your-page.mdx`.
 
 <Warning>
 
-You cannot use `api` for the name of a folder unless you nest it inside another folder. Mintlify uses Next.js which reserves the top-level `api` folder for internal server calls. A folder name such as `api-reference` would be accepted.
+Currently, we do not support 'hovering' actions within the web. If you click on any element while hovering over text or components, our extension may not function properly.
 
 </Warning>
 
-```json Navigation With Folder
-"navigation": [
-    {
-        "group": "Group Name",
-        "pages": ["your-folder/your-page"]
-    }
-]
-```
+2. Keep in mind that what you record will serve as the foundation for what this automation tool will repeat.
 
-## Hidden Pages
+3. When you're finished with your recording, simply click the 'Stop' button to end the session.
 
-MDX files not included in `mint.json` will not show up in the sidebar but are accessible through the search bar and by linking directly to them.
+
+### How to Confirm?
+
+1. Click the Play button once to check if your recording was captured correctly and functions as intended.
+
+2. You can remove one or more actions from the recording if any were mistakenly included.
+
+3. If you want to edit any part of the recording, we recommend starting a new recording from scratch.
+
