@@ -33,12 +33,12 @@
   "anchors": [
     {
       "name": "Slack Community",
-      "icon": "thumbs-up",
+      "icon": "slack",
       "url": "https://join.slack.com/t/paca-ai/shared_invite/zt-2mpyadhut-i_jb1g0cL073uq71DG0YlA"
     },
     {
       "name": "Product Hunt",
-      "icon": "slack",
+      "icon": "thumbs-up",
       "url": "https://www.producthunt.com/posts/paca-web-automation"
     }
   ],
