@@ -54,10 +54,10 @@
       "group": "Automation Tips",
       "pages": [
         "essentials/extracting",
+        "essentials/recording",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
-        "essentials/navigation",
         "essentials/reusable-snippets"
       ]
     },
